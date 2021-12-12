@@ -1,1 +1,1 @@
-Testing both Github and Git
+Testing both Github and Git.
